@@ -1,0 +1,14 @@
+*.retry
+secrets.yml
+.DS_Store
+
+# Zsh
+/zsh/config/local.zsh
+
+# Fish
+fishd.*
+fish/config.fish.backup
+.config/fish/fish_history
+fish/fish_history
+fish/fish_variables
+
